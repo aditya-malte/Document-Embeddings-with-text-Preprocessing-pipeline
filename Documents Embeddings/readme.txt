@@ -4,3 +4,7 @@ I have also included a text preprocessing pipiline which includes tokenization,
 rare word removal, stopwords removal, html tags removal and detokenization, using
 reges, nltk and some of my own solutions.
 This pipeline could be used as a quick reference for preprocessing. 
+
+It was trained on Amazon Fine Foods corpus
+The model was able to generalise very well, for example it generalised phrases like "good food" with 
+"tasty" and "big hit". Another example, "fast delivery" was generaalised with phrases like "arrived on time", "Amazon Prime delvery", etc.
