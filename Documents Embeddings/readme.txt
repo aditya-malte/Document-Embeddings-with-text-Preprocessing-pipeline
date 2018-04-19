@@ -8,3 +8,6 @@ This pipeline could be used as a quick reference for preprocessing.
 It was trained on the Amazon Fine Foods corpus, which contains a lot of typing errors, random words and phrases.
 Despite that, the model was able to generalise very well, for example it generalised phrases like "good food" with 
 "tasty" and "big hit". Another example, "fast delivery" was generaalised with phrases like "arrived on time", "Amazon Prime delvery", etc.
+
+The so obtained vectors after training can then be passed to a classifier for sentiment analysis, topic modelling or can even be used for 
+semantic sentence similarity.
