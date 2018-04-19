@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 23 20:04:02 2018
 
-@author: Uday
+
 """
 
 import re
